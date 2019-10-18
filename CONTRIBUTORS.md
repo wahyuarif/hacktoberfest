@@ -1,3 +1,8 @@
+#### Name: Wahyu Arif Kurniawan
+ - Place: Jawa Tengah, Indonesia
+ - Bio: Programmer maybe and designer. Graduated from UNSIQ future.
+ - GitHub: [Vallenain](https://github.com/wahyuarif)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
